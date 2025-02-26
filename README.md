@@ -3,7 +3,7 @@
 
 My Submission for the WWDC25 Swift Student Challenge
 
-![Logo](https://github.com/acrostorn/OrbitPlay/blob/main/Image/OrbitPlayLogo.png?raw=true)
+![Logo](https://github.com/acrostorn/OrbitPlay/blob/main/Image/icon.png?raw=true)
 
 ## About This Playground  
 
