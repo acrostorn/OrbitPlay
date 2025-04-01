@@ -1,7 +1,7 @@
 
 # OrbitPlay
 
-My Submission for the WWDC25 Swift Student Challenge　**[Accepted]**
+My Submission for the WWDC25 Swift Student Challenge **[Accepted]**
 
 ![Swift](https://img.shields.io/badge/Swift-blue?style=flat-square)
 ![Playgrounds](https://img.shields.io/badge/Playgrounds-orange?style=flat-square)
