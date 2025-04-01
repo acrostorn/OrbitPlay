@@ -1,7 +1,13 @@
 
 # OrbitPlay
 
-My Submission for the WWDC25 Swift Student Challenge
+My Submission for the WWDC25 Swift Student Challenge　**[Accepted]**
+
+![Swift](https://img.shields.io/badge/Swift-blue?style=flat-square)
+![Playgrounds](https://img.shields.io/badge/Playgrounds-orange?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-iPadOS-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Swift Student Challenge](https://img.shields.io/badge/Swift_Student_Challenge-Distinguished_Winner_'25-green?style=flat-square)
 
 ![Logo](https://github.com/acrostorn/OrbitPlay/blob/main/Image/icon.png?raw=true)
 
